@@ -1,0 +1,96 @@
+/*产品介绍*/
+section.top_padding{
+    padding: 160px 0 100px;
+}
+section>div>div>div>div.download_block{
+    max-width:396px;
+    padding-top:14px;
+}
+.opa_dark{
+    opacity:1;
+    color:#405a6c;
+}
+section>div>div>div>div>div>a.freedownload{
+    display: inline-block;
+    line-height: 42px;
+    font-size: 16px;
+    border-radius: 4px;
+    background: linear-gradient(45deg, #4929b0 0%, #0acffe 100%);
+    color: #fff;
+    min-width: 248px;
+    transition: all 0.3s ease;
+}
+section>div>div>div>div>div>a.freedownload:hover{
+    background:#f5a623;
+    text-decoration: none;
+}
+/*行业*/
+section.hy_padding{
+    color: #fff;
+    background:url(../image/product/bg-trade.jpg) no-repeat bottom;
+    background-size: cover;
+    padding: 80px 0 140px;
+}
+.margin_60{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+.line{
+    border-right: 1px solid rgba(151, 151, 151, 0.5);
+}
+.line2{
+    border-right: 1px solid rgba(151, 151, 151, 0.5);
+    border-left: 1px solid rgba(151, 151, 151, 0.5);
+}
+/*地图服务*/
+section.map_padding{
+    background: url(../image/product/map.jpg) no-repeat top #f4f7fb;
+    padding: 250px 0 170px;
+    background-size: 100% auto;
+}
+.padding-70{
+    padding-bottom:70px;
+}
+.padding-22{
+    padding-left:22%;
+    padding-right:22%;
+}
+/*对象管理*/
+.obj_padding{
+    background: url(../image/product/bg-object.jpg) no-repeat bottom;
+    padding: 100px 0;
+    background-size: 100% auto;
+}
+/*数据转换*/
+.datachange_padding{
+    background: #f4f7fb;
+    padding: 100px 0;
+}
+.padding-100{
+    padding-top:100px;
+}
+/*地理测绘*/
+.geo_padding{
+    background: url(../image/product/bg-draw.jpg) no-repeat left center;
+    background-size: 100% auto;
+    padding: 160px 0;
+}
+.padding-80{
+    padding-right:80px;
+    padding-left:80px;
+}
+/*更多功能*/
+.more_padding{
+    border-top: 1px solid #d9d9d9;
+    padding: 100px 0;
+}
+.margin-30{
+    margin:30px 0;
+}
+.padding-18{
+    padding-left:18%;
+    padding-right:18%;
+}
+a:hover{
+    text-decoration:none;
+}

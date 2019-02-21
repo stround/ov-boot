@@ -1,0 +1,33 @@
+/*top蓝字*/
+section.top_padding{
+    padding: 180px 0 80px;
+    background: #f4f7fb;
+}
+/*关于我们*/
+.padding-80{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+div.center_width{
+    max-width: 698px;
+    margin: 0 auto;
+}
+/*企业宗旨*/
+@media (max-width: 767px) {
+    section{
+        text-align:center;
+    }
+}
+section.zz_bg{
+    background: url(../image/about/bg-about.jpg) no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
+div.zz_width{
+    max-width: 498px;
+    margin: 0 auto;
+}
+/*地图API*/
+section>h2.padding-60{
+    padding-top:60px;
+}

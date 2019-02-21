@@ -1,0 +1,168 @@
+/*顶部文字*/
+section.top_padding{
+    padding: 180px 0 80px;
+    background: #f4f7fb;
+}
+/*vip系列*/
+section.vip_padding{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+section>div>div>div.border_rt{
+    border-right:1px solid #d9d9d9;
+    margin-bottom:20px;
+}
+@media (max-width:991px){
+    section>div.container>div.row :nth-child(3){
+        border-right:0;
+    }
+}
+@media (max-width:767px){
+    section>div.container>div.row>div{
+        border-right:0;
+    }
+}
+.margin-645{
+    margin:60px 40px 50px;
+}
+.centervip_a{
+    background: #F4F7FB;
+    border-radius: 8px;
+    padding: 24px 34px;
+    margin-bottom: 10px;
+    display: block;
+}
+.centervip_a>span{
+    vertical-align: middle;
+}
+.margint-60{
+    margin-top:60px;
+}
+.how_vip{
+    background: url(../image/vip/icon-question.svg) #5e8dd4 no-repeat 94% center;
+    line-height: 34px;
+    height: 34px;
+    display: inline-block;
+    padding: 0 43px 0 20px;
+    cursor: pointer;
+    text-align: left;
+    border-radius: 17px;
+    color: #fff;
+    z-index:10;
+}
+.how_vip:hover{
+    background-color:#f5a623;
+}
+div.margint-60{
+    position: relative;
+}
+div.margint-60::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    background: #d9d9d9;
+    height: 1px;
+    z-index:-1;
+}
+/*对比普通版*/
+section.pb-100{
+    padding-bottom:100px;
+}
+section>div.bg_earth{
+    background: url(../image/vip/bg-price.jpg) no-repeat 5% 96%;
+    background-size: 604px 683px;
+}
+section>div>div.pt-60{
+    padding-top:60px;
+}
+section>div>div>div>div.tab_border{
+    border: 1px solid #d9d9d9;
+    border-radius: 8px;
+    width: 98%;
+    margin: 0 auto 20px;
+    background: #fff;
+}
+.pt_bg{
+    background: #405a6c;
+    line-height: 46px;
+    margin: 0;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+.vip_bg{
+    background: #5e8dd4;
+    line-height: 46px;
+    margin: 0;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+section.pb-100>div>div>div>div>table td{
+    padding: 12px 20px;
+    text-align: left;
+    border-top: 1px solid #d9d9d9;
+    border-right: 1px solid #d9d9d9;
+    width: 50%;
+    vertical-align: top;
+    font-size:14px;
+}
+section.pb-100>div>div>div>div>table td:nth-child(2){
+    border-right:0;
+}
+.Vip_more{
+    border-top: 1px solid #d9d9d9;
+    margin: 0;
+    padding: 20px;
+    text-align: left;
+}
+/*vip收费*/
+section.price_padding{
+    padding: 100px 0;
+    background: #f4f7fb;
+}
+.pb-60{
+    padding-bottom:60px;
+}
+@media (min-width: 1200px) {
+    .col-lg-2-4 {
+        max-width: 20%;
+    }
+}
+section>div>div>div>div.price_item{
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 6px 10px rgba(18, 83, 169, 0.2);
+    padding: 10px 20px 20px;
+    margin: 16px 0;
+}
+div.price_item table td{
+    border:0;
+    font-size:14px;
+    text-align: left;
+    padding-bottom: 16px;
+    vertical-align: top;
+}
+div.price_item table td:nth-child(2){
+    text-align: right;
+    width: 64%;
+}
+div.price_item>a.price_a1{
+    padding: 6px 30px;
+    color: #405a6c;
+    border:1px solid #d9d9d9;
+    border-radius:3px;
+    transition: all 0.3s ease;
+}
+div.price_item>a.price_a1:hover{
+    background:#eee;
+}
+/*收费标准*/
+section.pb2-100{
+    padding-bottom: 100px;
+    background: #f4f7fb;
+}
+a:hover{
+    text-decoration:none;
+}

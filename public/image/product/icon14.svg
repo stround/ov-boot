@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 50</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product" transform="translate(-1050.000000, -4119.000000)">
+            <g id="section-4" transform="translate(-3.000000, 219.000000)">
+                <g id="Group-50" transform="translate(1053.000000, 3900.000000)">
+                    <circle id="Oval-Copy-8" fill="#5E8DD4" cx="20" cy="20" r="20"></circle>
+                    <g id="搜索" transform="translate(11.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M14.1438711,13.0176033 C15.2695555,11.6397061 15.97335,9.90491594 15.97335,7.98781027 C15.97335,3.57707249 12.3967859,0 7.98667501,0 C3.5765641,0 0,3.57707249 0,7.98781027 C0,12.398548 3.5765641,15.9756205 7.98667501,15.9756205 C9.90350821,15.9756205 11.6380518,15.271726 13.0157532,14.1458815 L16.8693239,18 L18,16.869288 L14.1438711,13.0176033 Z M7.98667501,14.3780897 C4.45753179,14.3780897 1.5973038,11.5174551 1.5973038,7.98781027 C1.5973038,4.4581654 4.45753179,1.59753085 7.98667501,1.59753085 C11.5158182,1.59753085 14.3760462,4.4581654 14.3760462,7.98781027 C14.3760462,11.5174551 11.5158182,14.3780897 7.98667501,14.3780897 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

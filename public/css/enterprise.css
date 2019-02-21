@@ -1,0 +1,117 @@
+section>div>div.row{
+    width:860px;
+    margin:0 auto;
+}
+@media (max-width: 991px) {
+    section>div>div.row{
+        width:auto;
+        margin:0 auto;
+    }
+}
+/*top*/
+section.box_padding{
+    padding: 220px 0 160px;
+    background: url(../image/enterprise/bg-enterprise.jpg) no-repeat center;
+    background-size: cover;
+    color: #fff;
+}
+/*长条*/
+/*section>div.w-750{
+    width:750px;
+}
+section>div>div.line_center{
+    width: 90%;
+    background: #fff;
+    border-radius: 8px;
+    height: 60px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.14);
+    margin: -30px auto 0 auto;
+    position: relative;
+    z-index: 2;
+}
+section>div>div>div>a.line_a{
+    position: absolute;
+    text-align: center;
+    top: -20px;
+    left: 0;
+    color: #0b3784;
+    text-decoration: none;
+    display:block;
+}*/
+/*概述*/
+section.over_padding{
+    background: #f4f7fb;
+    margin-top: -30px;
+    padding: 122px 0 100px;
+}
+.pt-90{
+    padding-top:90px;
+}
+/*比较*/
+section.pd-80{
+    padding-top:80px;
+    padding-bottom:80px;
+}
+.pd-40{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+/*功能*/
+section.funct_padding{
+    background:url(../image/enterprise/bg-enterprise-1.jpg) no-repeat center;
+    background-size: cover;
+    padding: 80px 0 315px;
+    color: #fff;
+}
+section>div>div.blue_block{
+    position: absolute;
+    left: 15px;
+    width: 100%;
+    top: 200px;
+}
+@media (max-width: 767px) {
+    section>div>div.blue_block{
+        position: relative;
+        left: 15px;
+        width: 100%;
+        top: 100px;
+    }
+    div.blue_block>div>div.block_item{
+        margin-bottom:20px !important;
+    }
+}
+div.blue_block>div>div.block_item{
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 300px;
+    margin: 0 auto;
+    max-width: 276px;
+}
+div.blue_block :first-child>div.block_item{
+    background:#5e8dd4;
+}
+div.blue_block :nth-child(2)>div.block_item{
+    background:#3065b5;
+}
+div.blue_block :last-child>div.block_item{
+    background:#204479;
+}
+div.blue_block>div>div.block_item>h3::after{
+    width:70px;
+    margin: 6px auto 0;
+    display: block;
+    content: '';
+    height: 3px;
+    background: #fff;
+}
+div.blue_block>div>div.block_item>ul>li{
+    line-height:2;
+    font-size: 14px;
+}
+/*bottom*/
+section.bt_padding{
+    padding: 250px 0 70px;
+}
+section.bt_padding>div>div>div{
+    margin-bottom:30px;
+}

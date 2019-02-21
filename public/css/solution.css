@@ -1,0 +1,130 @@
+/*顶部*/
+section.top_padding{
+    background:#171c2b;
+    color:#fff;
+    padding:180px 0 60px;
+}
+section>div>p.width-500{
+    max-width:500px;
+    margin:20px auto 0;
+}
+/*交通*/
+section.rode_padding{
+    background:url(../image/solution/bg-trans.jpg) no-repeat center top;
+    padding:130px 0 0;
+    background-size:cover;
+}
+.mt-90{
+    margin-top:90px;
+    margin-bottom:80px;
+}
+/*建筑*/
+section.cons_padding{
+    background:url(../image/solution/bg-arche.jpg) no-repeat center;
+    padding:150px 0;
+    background-size:cover;
+    color:#fff;
+    margin-top:-40px;
+    z-index:2;
+    position:relative;
+}
+div.container>div.row> div.con_padding{
+    padding-top:80px;
+    padding-right:100px;
+}
+.mt-80{
+    margin-top:80px;
+}
+/*电信*/
+section.elec_padding{
+    background:url(../image/solution/bg-tele.jpg) no-repeat center top;
+    padding:150px 0;
+    background-size: cover;
+}
+/*实际使用*/
+section.use_padding{
+    background:#1a284d;
+    padding:80px 0;
+}
+h2.use_mg{
+    margin-top:20px;
+    margin-bottom:50px;
+}
+div.al_item{
+    background:#fff;
+    min-height:246px;
+    position:relative;
+}
+.a_block{
+    display:block;
+    height:100%;
+    text-decoration: none;
+}
+.table_top{
+    display:block;
+    line-height:45px;
+    color:#fff;
+    padding:0 15px;
+}
+.bg-blue{
+    background:#5e8dd4;
+}
+.bg-green{
+    background:#46bcb5;
+}
+.bg-blue2{
+    background:#0780ab;
+}
+.bg-green2{
+    background:#39a306;
+}
+.bg-gray{
+    background:#757b7b;
+}
+p.bg-gray span.triangle{
+    border-color:#757b7b transparent;
+}
+p.bg-green2 span.triangle{
+    border-color:#39a306 transparent;
+}
+p.bg-blue2 span.triangle{
+    border-color:#0780ab transparent;
+}
+p.bg-blue span.triangle{
+    border-color:#5e8dd4 transparent;
+}
+p.bg-green span.triangle{
+    border-color:#46bcb5 transparent;
+}
+.triangle{
+    display:block;
+    position:absolute;
+    border-width:14px 14px 0 0;
+    left:20px;
+    top:45px;
+    border-style:solid;
+}
+a.text-gray:hover{
+    color:#405a6c;
+}
+.table_bottom{
+    position:absolute;
+    bottom:20px;
+    left:0;
+    padding:0 16px;
+}
+/*客户*/
+section.clie_padding{
+    padding:100px 0;
+}
+.width-80{
+    width:80%;
+    margin:0 auto;
+}
+.sp_line{
+    display:inline-block;
+    margin:10px;
+}
+a:hover{
+    text-decoration:none;
+}

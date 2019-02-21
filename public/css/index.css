@@ -1,0 +1,181 @@
+/*�ֲ�ͼ*/
+.swiper-container {
+    height: 660px;
+    width:100%;
+    background: linear-gradient(135deg, #171c2b, #2c3244);
+}
+@media (max-width: 992px) {
+    .swiper-container {
+        height: 800px;
+    }
+}
+.swiper-pagination-bullet {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.swiper-pagination-bullet-active {
+    background: #5e8dd4;
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets {
+    bottom: 20px;
+}
+
+.swiper-button-prev {
+    left: -4px;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets {
+    bottom: 20px;
+}
+.swiper-pagination-bullet {
+    background: rgba(255, 255, 255, 0.9);
+}
+.swiper-pagination-bullet-active {
+    background: #5e8dd4;
+}
+.swiper-pagination{
+    position:absolute;
+    text-align:center;
+    -webkit-transition:.3s opacity;
+    -o-transition:.3s opacity;
+    transition:.3s opacity;
+    -webkit-transform:translate3d(0,0,0);
+    transform:translate3d(0,0,0);
+    z-index:10}
+div.pd-140{
+    padding-top:140px;
+}
+.pd-54{
+    padding-top:54px;
+}
+.pd-16{
+    padding:16px 0;
+}
+.swiper_a{
+    text-decoration:none;
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+    border-radius:5px;
+    background-image:linear-gradient(to right,#4040bb 0%,#2d74d3 25%,#2588dc 50%,#1d9ee7 75%,#11baf4 100%);
+}
+.swiper_a:hover{
+    background:#f5a623;
+    text-decoration: none;
+    color:white;
+}
+.img-auto{
+    padding:20px 0;
+}
+/*�в�����*/
+.center_padding{
+    padding-top:80px;
+    padding-bottom:80px;
+}
+.text_blue{
+    color:#0b3784;
+}
+.text-gray{
+    color:#999;
+}
+.width-130{
+    width:130px;
+}
+/*��ͼ����*/
+.over_h{
+    overflow: hidden;
+}
+.bg_img:first-child{
+    padding:0;
+    background:url(../image/index/trade-1.jpg) no-repeat center;
+    background-size:auto 100%;
+    height: 410px;
+    transition: all 0.4s ease;
+}
+.bg_img:nth-child(2){
+    padding:0;
+    background:url(../image/index/trade-2.jpg) no-repeat center;
+    background-size:auto 100%;
+    height: 410px;
+    transition: all 0.4s ease;
+}
+.bg_img:nth-child(3){
+    padding:0;
+    background:url(../image/index/trade-3.jpg) no-repeat center;
+    background-size:auto 100%;
+    height: 410px;
+    transition: all 0.4s ease;
+}
+.bg_img:nth-child(4){
+    padding:0;
+    background:url(../image/index/trade-4.jpg) no-repeat center;
+    background-size:auto 100%;
+    height: 410px;
+    transition: all 0.4s ease;
+}
+.bg_img:last-child{
+    padding:0;
+    background:url(../image/index/trade-5.jpg) no-repeat center;
+    background-size:auto 100%;
+    height: 410px;
+    transition: all 0.4s ease;
+}
+@media (min-width: 1200px) {
+    section>div>div.row>div.col-lg-2-4 {
+        max-width: 20%;
+    }
+}
+.bg_img:hover{
+    background-size:auto 110%;
+}
+.img_textp{
+    left: 26px;
+    bottom: 30px;
+}
+.white_line::after{
+    content: '';
+    height: 3px;
+    background: #fff;
+    width: 34px;
+    display: block;
+    margin-top: 10px;
+}
+/*ͼ������*/
+section.bg_an{
+    background:#2c3244;
+}
+/*�������*/
+section.bg_liang{
+    background:#f4f7fb;
+}
+.text_an{
+    color:#405a6c;
+}
+section div a.update_a{
+    background: #fff;
+    padding: 24px 20px 16px;
+    display: block;
+    color: #405a6c;
+    text-decoration: none;
+    position: relative;
+    bottom: 0;
+    transition: bottom .2s ease;
+}
+section div a.update_a:hover{
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    bottom: 6px;
+}
+.text_blue2{
+    color:#5e8dd4;
+}
+section div a h3{
+    margin: 0;
+    padding-top: 20px;
+    line-height: 1.2;
+    min-height: 60px;
+}
+a:hover{
+    text-decoration:none;
+}

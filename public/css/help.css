@@ -1,0 +1,122 @@
+/*搜索*/
+section.search_padding{
+    background:#f4f7fb;
+    padding:208px 0 90px;
+}
+section>div>form>div.search_border{
+    position:relative;
+    background:#fff;
+    box-shadow:0 15px 20px 0 rgba(79, 139, 172, 0.13);
+    height:48px;
+    padding-right:38px;
+    border-radius:28px;
+    width:432px;
+    margin:0 auto;
+}
+@media (max-width: 768px){
+    section>div>form>div.search_border{
+        width:80%;
+    }
+}
+section>div>form>div>input{
+    outline:0;
+    border:0;
+    padding:0 20px;
+    line-height:48px;
+    border-radius:28px;
+    width:100%;
+}
+section>div>form>div>button.search_sub{
+    position:absolute;
+    right:5px;
+    top:5px;
+    height:38px;
+    width:38px;
+    border-radius:50%;
+    border:0;
+    background:url(../image/help/search.svg) no-repeat center center #39a306;
+}
+/*新手+用户*/
+section.user_margin{
+    margin:100px 0;
+}
+section>div>div.out_bg{
+    background:#f4f7fb;
+    padding:50px;
+    width:90%;
+    margin:0 auto;
+}
+.btn_a{
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+    color: #405a6c;
+    background-color: #fff;
+    border:1px solid #d9d9d9;
+    min-width: 210px;
+    transition:all .2s;
+}
+.btn_a:hover{
+    color: #405a6c;
+    background: #f4f7fb;
+}
+.border_left{
+    border-left: 1px solid #d9d9d9;
+}
+/*vip3*/
+.w-90{
+    width:90%;
+    margin:0 auto;
+}
+section>div>div>div>a.vip_3{
+    display: inline-block;
+    width: 190px;
+    height: 165px;
+    border: 1px solid #d9d9d9;
+    padding: 16px;
+    text-decoration: none;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    transition:all .2s;
+}
+section>div>div>div>a.vip_3:hover{
+    background:#f4f7fb;
+}
+/*help*/
+section.help_padding{
+    padding:80px 0;
+}
+section>div>div>h2{
+    position:relative;
+}
+section>div>div>h2::before{
+    content:'';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    background: #d9d9d9;
+    height: 1px;
+}
+section>div>div>h2>span{
+    background:#fff;
+    padding: 0 16px;
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+}
+.mb-60{
+    margin-bottom:60px;
+}
+div.w-90>div.help_item{
+    display: inline-block;
+    width: 48%;
+    vertical-align: top;
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+div.help_item>ul>li>a:hover{
+    color:#405a6c;
+}

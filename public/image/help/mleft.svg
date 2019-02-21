@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="26px" viewBox="0 0 14 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>mleft</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="home-mobile" transform="translate(-574.000000, -108.000000)" fill="#000000">
+            <g id="nav" transform="translate(-1.000000, 76.000000)">
+                <g id="mleft" transform="translate(582.000000, 45.000000) scale(-1, 1) translate(-582.000000, -45.000000) translate(575.000000, 32.000000)">
+                    <path d="M2.2856911,13.09408 L13.7142829,1.60130441 C14.095239,1.22448988 14.095239,0.65947037 13.7142829,0.282476045 C13.3333268,-0.0941586816 12.7620972,-0.0941586816 12.3809593,0.282476045 L0.190455323,12.340451 C0,12.5288807 0,12.9056952 0,13.09408 C0,13.2826446 0.190455323,13.6592793 0.380956091,13.8477091 L12.3809593,25.7172543 C12.7620972,26.0942486 13.3333268,26.0942486 13.7142829,25.7172543 C14.095239,25.3404397 14.095239,24.7752404 13.7142829,24.3984259 L2.2856911,13.09408 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
